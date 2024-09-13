@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @EfilnorIsWorking
-- 👀 I’m interested in all sort of things
+# 👋 Hi!
+- 👀 I’m interested in all sort of things but most specially in art and music.
 - 🌱 I’m currently learning Python, C, JavaScript, PHP, etc.
 - 😄 Pronouns: she/her
 - ⚡ I'm still a student in cybersecurity
